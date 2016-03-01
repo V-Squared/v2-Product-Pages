@@ -10,12 +10,12 @@
 Community Project to develop, review and publish the product pages of ViPC. 
 We are using the following workflow:
 
-1. **Incubation:** Develop content in GitHub Wiki (here)
+1. **Incubation:** Develop content in GitHub Wiki. [List of all ViPC Wikis](#list-of-wikis)
 2. **Scrutiny:** Convert Wiki pages to HTML, publish in gh-pages, community review using GitHub Issues / Forks & Pull Requests
 3. **Publication:** Publish on website
 
 ## Structure / Table of Contents
-- Each page in this Wiki will be one Product Page on the Web Site
+- Each page in the Wiki of this Repository will be one Product Page on the Web Site
 - A Table of Contents is shown in the Side Bar to the right in this Wiki
 - The Structure in the Side Bare reflects how Structure in the Menu on the final web site
 
@@ -33,11 +33,11 @@ ViPC are a set of open source projects to to create and publish Know How to help
 - Safe your money and the environment with modular Mini and All-In-One Computer, where the problematic part can be replaced by user versus buying a complete new computer.
 - Create a community driven shop system to sell ready made and tested ViPCs to people who want the modularity of ViPC but do not want to build it themselves.
 
-### ViPC Projects / Repositories on GitHub
+### Lit of all ViPC Know How Contents <a name="list-of-wikis">
 We maintain all 
 
 - [v2-How-to-DIY-Mini-PC](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki) Know How to build a DIY Mini or All-In-One PC
-- [v2-ViPC-Configurations]()Complete PC Configurations with Shopping List from Entry Level PC to High End Workstations
+- [v2-ViPC-Configurations](https://github.com/V-Squared/v2-ViPC-Configurations/wiki)Complete PC Configurations with Shopping List from Entry Level PC to High End Workstations
 - [v2-ViPC-Product-Pages](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki/) Product Pages of ViPC, ViCase and ViBare
 - [v2-Configurator](https://github.com/V-Squared/v2-Configurator/wiki/) Easy to use PC Configurator
 - [v2-How-to-Online-Shop](https://github.com/V-Squared/v2-How-to-Online-Shop/wiki/) Know How to build an Online Shop)
