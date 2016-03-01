@@ -34,7 +34,7 @@ ViPC are a set of open source projects to to create and publish Know How to help
 - Create a community driven shop system to sell ready made and tested ViPCs to people who want the modularity of ViPC but do not want to build it themselves.
 
 ### Lit of all ViPC Know How Contents <a name="list-of-wikis">
-We maintain all 
+All Know How is first developed and then maintained in the Wikis of each repository:
 
 - [v2-How-to-DIY-Mini-PC](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki) Know How to build a DIY Mini or All-In-One PC
 - [v2-ViPC-Configurations](https://github.com/V-Squared/v2-ViPC-Configurations/wiki) Complete PC Configurations with Shopping List from Entry Level PC to High End Workstations
