@@ -10,7 +10,7 @@
 Community Project to develop, review and publish the product pages of ViPC. 
 We are using the following workflow:
 
-1. **Incubation:** Develop content in GitHub Wiki. [here](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
+1. **Incubation:** Develop content in GitHub Wiki [here](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
 2. **Scrutiny:** Convert Wiki pages to HTML, publish in gh-pages, community review using GitHub Issues / Forks & Pull Requests
 3. **Publication:** Publish on website
 
