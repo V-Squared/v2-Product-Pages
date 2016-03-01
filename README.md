@@ -1,4 +1,4 @@
-# Home►ViPC Product Pages
+# Readme►ViPC Product Pages
 
 ## Table of Contents
 - [ViPC Product Pages](#about-product-pages)
