@@ -15,7 +15,8 @@ We are using the following workflow:
 3. **Publication:** Publish on website
 
 ### Structure / Table of Contents
-- Each page in the Wiki of this Repository will be one Product Page on the Web Site
+- Each Product will have one Master Page and three variants: 1) Master 2) Web Site Page, 3) Shop Page
+- Each page in the Wiki of this Repository will be one Product Page
 - A Table of Contents is shown in the Side Bar to the right in this Wiki
 - The Structure in the Side Bare reflects how Structure in the Menu on the final web site
 
