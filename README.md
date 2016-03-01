@@ -1,8 +1,8 @@
 # Home►ViPC Product Pages
 
 ## Table of Contents
-- [ViPC Product Pages](about-product-pages)
-- [About ViPC](about-vipc)
+- [ViPC Product Pages](#about-product-pages)
+- [About ViPC](#about-vipc)
 
 
 ## About ViPC Product Pages <a name="about-product-pages">
@@ -10,13 +10,13 @@
 Community Project to develop, review and publish the product pages of ViPC. 
 We are using the following workflow:
 
-1. **Incubation:** Develop content in GitHub Wiki [here](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
+1. **Incubation:** Develop content in GitHub Wiki (here)
 2. **Scrutiny:** Convert Wiki pages to HTML, publish in gh-pages, community review using GitHub Issues / Forks & Pull Requests
 3. **Publication:** Publish on website
 
 ## Structure / Table of Contents
 - Each page in this Wiki will be one Product Page on the Web Site
-- A Table of Contents is shown in the Side Bar to the right in [this Wiki](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
+- A Table of Contents is shown in the Side Bar to the right in this Wiki
 - The Structure in the Side Bare reflects how Structure in the Menu on the final web site
 
 
