@@ -10,7 +10,7 @@
 Community Project to develop, review and publish the product pages of ViPC. 
 We are using the following workflow:
 
-1. **Incubation:** Develop content in GitHub Wiki. [List of all ViPC Wikis](#list-of-wikis)
+1. **Incubation:** Develop content in GitHub Wiki. [here](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
 2. **Scrutiny:** Convert Wiki pages to HTML, publish in gh-pages, community review using GitHub Issues / Forks & Pull Requests
 3. **Publication:** Publish on website
 
@@ -37,7 +37,7 @@ ViPC are a set of open source projects to to create and publish Know How to help
 We maintain all 
 
 - [v2-How-to-DIY-Mini-PC](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki) Know How to build a DIY Mini or All-In-One PC
-- [v2-ViPC-Configurations](https://github.com/V-Squared/v2-ViPC-Configurations/wiki)Complete PC Configurations with Shopping List from Entry Level PC to High End Workstations
+- [v2-ViPC-Configurations](https://github.com/V-Squared/v2-ViPC-Configurations/wiki) Complete PC Configurations with Shopping List from Entry Level PC to High End Workstations
 - [v2-ViPC-Product-Pages](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki/) Product Pages of ViPC, ViCase and ViBare
 - [v2-Configurator](https://github.com/V-Squared/v2-Configurator/wiki/) Easy to use PC Configurator
 - [v2-How-to-Online-Shop](https://github.com/V-Squared/v2-How-to-Online-Shop/wiki/) Know How to build an Online Shop)
@@ -49,7 +49,7 @@ We maintain all
 
 
 
-### How can I contribute to ViPC
+### How to contribute to ViPC
 
 1. Correct Mistakes in these pages. You can edit them if you have a GitHub account.
 2. Add missing Content
