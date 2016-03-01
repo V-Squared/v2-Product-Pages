@@ -14,7 +14,7 @@ We are using the following workflow:
 2. **Scrutiny:** Convert Wiki pages to HTML, publish in gh-pages, community review using GitHub Issues / Forks & Pull Requests
 3. **Publication:** Publish on website
 
-## Structure / Table of Contents
+### Structure / Table of Contents
 - Each page in the Wiki of this Repository will be one Product Page on the Web Site
 - A Table of Contents is shown in the Side Bar to the right in this Wiki
 - The Structure in the Side Bare reflects how Structure in the Menu on the final web site
