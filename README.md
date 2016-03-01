@@ -7,7 +7,7 @@
 
 ## About ViPC Product Pages <a name="about-product-pages">
 ### What are ViPC Product Pages
-Community Project to develop, review and publish the product pages of ViPC. 
+Community Project to develop, review and publish the product pages of [ViPC](#about-vipc). 
 We are using the following workflow:
 
 1. **Incubation:** Develop content in GitHub Wiki [here](https://github.com/V-Squared/v2-ViPC-Product-Pages/wiki)
